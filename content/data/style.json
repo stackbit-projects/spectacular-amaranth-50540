@@ -28,5 +28,11 @@
     "buttonSecondary": {
         "radius": 0,
         "case": "none"
+    },
+    "h3": {
+        "weight": "bold",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
     }
 }
