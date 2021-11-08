@@ -42,7 +42,7 @@ sections:
         type: Button
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/1.png
       altText: Image alt text
       caption: Image caption
     styles:
