@@ -100,7 +100,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: none
-        borderWidth: 0
+        borderWidth: 1
         borderStyle: none
         borderColor: border-primary
       title:
