@@ -106,7 +106,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: vit@ribachenko.com
+      destination: vitaliy@stackbit.com
       fields:
         - type: TextFormControl
           name: name
