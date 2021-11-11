@@ -48,7 +48,7 @@ sections:
         type: Button
     feature:
       type: ImageBlock
-      url: /images/1.png
+      url: /images/about.jpg
       altText: Image alt text
       caption: Image caption
     styles:
